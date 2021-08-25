@@ -1,0 +1,16 @@
+Nombres:
+-Carreras Serrano Jeremy
+-Romero Vazquez Marco
+-Márquez Rosas Lemuel
+-Saavedra Trejo Andrés Hernan
+
+Profesor los automatas que nos llamaron la atención son:
+-Automata móvil: Si este no encuentra nada en su camino
+    puede llegar al infinito si se lo permitimos, en todo
+    momento se esta moviendo.
+
+-Automata expandible: Es curioso como empieza en algo
+    pequeño y se expande similar a una civilización,
+    sin embargo llega un momento en que todo el avance
+    se termina y es necesario hacer contacto con otra 
+    civilización.

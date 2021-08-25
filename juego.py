@@ -30,6 +30,15 @@ gameState[22, 23] = 1
 gameState[21, 23] = 1
 gameState[20, 23] = 1
 
+# Automata expandible
+gameState[10, 10] = 1
+gameState[11, 11] = 1
+gameState[9, 11] = 1
+gameState[11, 12] = 1
+gameState[9, 12] = 1
+gameState[10, 13] = 1
+gameState[10, 11] = 1
+
 
 pauseExect = False
 
@@ -41,7 +50,7 @@ while True:
 
     # Limpiamos la pantalla cada décima de segundo
     screen.fill(bg)
-    time.sleep(2)
+    time.sleep(.5)
 
     # Registramos eventos de teclado y ratón
     ev = pygame.event.get()
